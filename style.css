@@ -12,17 +12,17 @@ th{
 }
 th{
   font-family: fantasy;
-  font-size: 100px;
+  font-size: 60px;
   color: FloralWhite;
   text-align: center;
-  margin: 50px;
+  margin: 30px;
 }
 td{
   font-family: sans-serif;
-  font-size: 60px;
-  color: LightSlateGrey;
+  font-size: 30px;
+  color: Cornsilk;
   text-align: center;
-  margin: 30px;
+  margin: 15px;
 }
 img{
 	height: 250px;
